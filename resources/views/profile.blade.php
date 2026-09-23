@@ -7,6 +7,6 @@
     <link rel="stylesheet" href="{{asset('css/style.css')}}">
 </head>
 <body>
-    <h1>Muhammad Eksa Arifa</h1>
+    <h1>Muhammad Eksa Arifa.</h1>
 </body>
 </html>
